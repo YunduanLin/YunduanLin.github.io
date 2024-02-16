@@ -6,7 +6,7 @@ subtitle: Good morning, and in case I don't see you, good afternoon, good evenin
 
 profile:
   align: right
-  image: headshot.jpg
+  image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p style="font-size:12px; color:grey">she/her/hers</p>
