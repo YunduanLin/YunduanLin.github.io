@@ -31,7 +31,7 @@ My advisor is Prof. [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu).
 
 I earned my M.S. degree (2019) from Berkeley and B.Eng. degree (2018) from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), both in Civil Engineering.
 
-For more information, please refer to my CV <a href="assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
+For more information, please refer to my CV <a href="../assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
 
 ---
 
