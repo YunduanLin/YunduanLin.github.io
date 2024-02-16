@@ -27,7 +27,7 @@
 
 @article{lin2023content,
   label={J2},
-  title={Content Promotion for Online Content Platforms with Network Diffusion Effect},
+  title={Content Promotion for Online Content Platforms with the Network Diffusion Effect},
   author={Lin, Yunduan and Wang, Mengxin and Zhang, Heng and Zhang, Renyu Philip and Shen, Zuo-Jun Max},
   year={2024},
   journal={Manufacturing & Service Operations Management},
@@ -40,6 +40,24 @@
   Methodology: We propose a diffusion model that incorporates platform promotion decisions to characterize the adoption process of online content. Based on this diffusion model, we formulate the CGPO problem as a mixed-integer program with nonconvex and nonlinear constraints, which is proved to be NP-hard. Additionally, we investigate methods for estimating the diffusion model parameters using available online platform data and introduce novel double ordinary least squares (D-OLS) estimators.<br>
   Results: We prove the submodularity of the objective function for the CGPO problem, which enables us to find an efficient (1-1/e)-approximation greedy solution. Furthermore, we demonstrate that the D-OLS estimators are consistent and have smaller asymptotic variances than traditional OLS estimators. By utilizing real data from a large-scale video-sharing platform, we show that our diffusion model effectively characterizes the adoption process of online content. Compared to the policy actually implemented on the platform, our proposed promotion policy increases total adoption by 49.90%.<br>
   Managerial Implications: Our research highlights the essential role of diffusion in online content and provides actionable insights for online content platforms to optimize their content promotion policies by leveraging our diffusion model.},
-  poster={poster_content.pdf}
-  selected={true}
+  poster={poster_content.pdf},
+  selected={true},
+  code={https://github.com/YunduanLin/Content_Promotion}
+}
+
+
+@article{lin2022nonprogressive,
+  label={J3},
+  title={Nonprogressive Diffusion on Social Networks: Approximation and Applications},
+  author={Lin, Yunduan and Zhang, Heng and Zhang, Renyu Philip and Shen, Zuo-Jun Max},
+  year={2023},
+  progress={Submitted after Major Revision at},
+  target={Management Science},
+  award1={First-Place Prize, the 13th POMS-HK International Conference Best Student Paper, 2023},
+  award2={Finalist, 18th INFORMS DMDA Workshop Best Paper Competition (Theoretical Track), 2023},
+  award3={Finalist, INFORMS Minority Issues Forum Poster Competition, 2023},
+  Conference={Accepted to INFORMS Workshop on Data Science 2023},
+  ssrn={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4232670},
+  abstract={Nonprogressive diffusion describes the dissemination of behavior on a social network, where the agents are allowed to reverse their decisions as time evolves. It has a wide variety of applications in service adoption, opinion formation, epidemiology, etc. Building upon the rich studies in network diffusion analysis and operations research, we propose a general model to characterize nonprogressive diffusion and develop a fixed-point approximation (FPA) scheme to characterize the limiting adoption on a social network. This approximation scheme admits both a theoretical guarantee and computational efficiency. We show that the maximal deviation of the FPA scheme diminishes as the network size and density increase at a rate of O(1/&radic;N_min), where N_min is the minimum indegree of the agents on a social network. Thus, the FPA scheme is most powerful for dense and large networks that are generally prohibitive by simulation. Taking the widely studied influence maximization and pricing problems on a social network as examples, we further illustrate the broad applications of our FPA scheme. Finally, we conduct comprehensive numerical studies with synthetic and real-world networks. The FPA scheme shows 1,000 times speed up in computation time than simulation. It achieves small approximation error, and outperforms conventional algorithms even when the social network is small and/or sparse.},
+  poster={poster_nonprogressive.pdf}
 }
