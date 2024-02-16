@@ -34,3 +34,17 @@ I earned my M.S. degree (2019) from Berkeley and B.Eng. degree (2018) from [Tsin
 For more information, please refer to my CV <a href="assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
 
 ---
+
+
+#### Research Interests
+
+My research strives for simple, efficient, and high-quality solutions to complex operational challenges. I believe in the principles of [systems thinking](https://en.wikipedia.org/wiki/Systems_thinking), therefore I focus on understanding how various components within a system interact, acknowledging that these interactions are pivotal in effective problem-solving.
+
+My current research centers on <span style="color:#0076df">social network analysis and platform
+operations</span>. The ultimate goal is to create a more precise reflection of our __interconnected societal systems__, which, in turn, enables __improved decision-making__ across a broad spectrum of platforms. These include---but are not limited to---online marketplaces and content-sharing platforms. On a broader scale, my work also venture into new frontiers in classical operations management problems, particularly those exacerbated by the pervasive connectivity of the digital era. These challenges span sectors like supply chain management, healthcare systems, and agricultural operations.
+
+Committed to being an integral part of the solutions to these complex operational puzzles, I have employed a diverse set of methodologies. These include <span style="color:#0076df">optimization</span> for high-quality problem-solving, <span style="color:#0076df">data analytics</span> to uncover actionable insights, <span style="color:#0076df">network and graph theory</span> to better understand the interconnected systems, and <span style="color:#0076df">stochastic simulation</span> for informed assessment and decision-making.
+
+Please feel free to contact me for research discussion and collaboration ^_^
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=YCvn1gfc-4Zcm16_59Td8Q8TVKH7BBu_xwEpz1zuH8E&cl=ffffff&w=200&h=150"></script>
