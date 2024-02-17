@@ -2,10 +2,15 @@
 layout: page
 permalink: /service/
 title: Service
-quote: A testament to the past, and a reminder of the future
+quote: From moments to milestones: where every interaction counts
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ---
-#### Selected Honors and Awards
+#### Academic Services
+
+Ad-Hoc Reviewer
+- *Management Science*
+- *Management Science Reproducibility Project*
+- *Accident Analysis and Prevention*
