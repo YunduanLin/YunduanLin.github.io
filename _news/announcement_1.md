@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-09-11
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+I will be at [INFORMS 2023 Workshop on Data Science](https://sites.google.com/view/data-science-2023/home?authuser=0).
+<br>
+Welcome to my talk "Nonprogressive Diffusion on Social Networks: Approximation and Applications"!
+<br>
+__Time__: Oct. 14, 2023, 11:00 AM - 12:00 PM; __Location__: Room 126A.
