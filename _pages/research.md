@@ -6,7 +6,7 @@ quote: Research is about to
 quotecode: repeat {search} until (true)
 <!-- description: Publications by categories in reversed chronological order. -->
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
