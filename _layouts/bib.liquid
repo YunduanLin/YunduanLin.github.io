@@ -41,7 +41,9 @@
   <!-- Entry bib key -->
   <div id="{{entry.key}}" class="col-sm-11">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+    <span style="color:#6495ED">{{ entry.title }}</span>
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
