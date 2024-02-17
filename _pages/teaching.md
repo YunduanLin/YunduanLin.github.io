@@ -18,13 +18,13 @@ nav_order: 2
 
 **Selected Student Testimonials**
 
-  <ul style="color:#0076df;font-weight:420;font-size:14px">
-    <li>I really learn a lot from this course. This is the best course I have ever taken in industry engineering. Maybe I won't give up it if I take this course earlier.</li>
-    <li>Notes are fairly well organized and detailed. I liked that there was separate written lecture notes that was a lot more detailed as compared to the lecture slides which helps with understanding on technical details.</li>
-    <li>She creates very straightforward and creative slides that help understand the topic faster and easier. I also appreciate how she elaborates each example.</li>
-    <li>Instructor Yunduan always encouraged questions and explained the answers in detail.</li>
-    <li>Yunduan is great! Always willing to listen to students' feedback and make reasonable adjustments accordingly.</li>
-  </ul>
+  <span style="color:#0076df;font-weight:420;font-size:14px">
+    - I really learn a lot from this course. This is the best course I have ever taken in industry engineering. Maybe I won't give up it if I take this course earlier. <br>
+    - Notes are fairly well organized and detailed. I liked that there was separate written lecture notes that was a lot more detailed as compared to the lecture slides which helps with understanding on technical details.<br>
+    - She creates very straightforward and creative slides that help understand the topic faster and easier. I also appreciate how she elaborates each example.<br>
+    - Instructor Yunduan always encouraged questions and explained the answers in detail.<br>
+    -Yunduan is great! Always willing to listen to students' feedback and make reasonable adjustments accordingly.<br>
+  </span>
 
 
 #### Graduate Student Instructor
