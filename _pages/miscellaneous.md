@@ -4,7 +4,7 @@ permalink: /miscellaneous/
 title: Miscellaneous
 quote: A testament to the past, and a reminder of the future.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ---
