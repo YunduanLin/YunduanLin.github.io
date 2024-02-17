@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+---
 #### Instructor
 
 - IEOR 253/CEE 258 **Supply Chain and Logistics Management**, Spring 2023
