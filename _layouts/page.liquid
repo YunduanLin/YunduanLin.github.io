@@ -4,6 +4,15 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
+    <p style="font-family:verdana; color:#A9A9A9", class="desc">{{ page.subtitle }}</p>
+    {%- if page.quote -%}
+      <p style="font-family:verdana; color:#A9A9A9", class="desc">{{ page.quote }}
+        {%- if page.quotecode -%}
+         <span > </span><span style="font-family:monospace; color:#A9A9A9; background-color:rgba(169,169,169,0.08)">{{page.quotecode}}</span>
+        {%- endif -%}.
+      </p>
+    {%- endif -%}
+
     <p class="post-description">{{ page.description }}</p>
   </header>
 

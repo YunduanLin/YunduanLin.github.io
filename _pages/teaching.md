@@ -6,7 +6,7 @@ quote: Teach to learn while learning to teach
 nav: true
 nav_order: 3
 ---
--
+
 #### Instructor
 
 - IEOR 253/CEE 258 **Supply Chain and Logistics Management**, Spring 2023
