@@ -16,12 +16,15 @@ nav_order: 3
   - The majority of students are from MAnalytics program. Others are from M.Eng., M.S. and Ph.D programs.
 
 
-Selected Student Testimonials
-  > - I really learn a lot from this course. This is the best course I have ever taken in industry engineering. Maybe I won't give up it if I take this course earlier.
+**Selected Student Testimonials**
+  <!-- > - I really learn a lot from this course. This is the best course I have ever taken in industry engineering. Maybe I won't give up it if I take this course earlier.
   > - Notes are fairly well organized and detailed. I liked that there was separate written lecture notes that was a lot more detailed as compared to the lecture slides which helps with understanding on technical details.
   > - She creates very straightforward and creative slides that help understand the topic faster and easier. I also appreciate how she elaborates each example.
   > - Instructor Yunduan always encouraged questions and explained the answers in detail.
-  > - Yunduan is great! Always willing to listen to students' feedback and make reasonable adjustments accordingly.
+  > - Yunduan is great! Always willing to listen to students' feedback and make reasonable adjustments accordingly. -->
+  <span style="color:grey;font-weight:700;font-size:20px">
+      markdown color font styles
+  </span>
 
 #### Graduate Student Instructor
 
