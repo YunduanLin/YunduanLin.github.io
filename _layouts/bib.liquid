@@ -153,6 +153,11 @@
       {{ entry.note | strip }}
     </div>
 
+
+    {%- if entry.progress -%}
+    <div class="progresstarget">{{entry.progress}} <em>{{entry.target}}</em></div>
+    {%- endif -%}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.abstract %}
@@ -164,6 +169,9 @@
       {%- if entry.ssrn %}
         <a href="{{ entry.ssrn }}" class="btn btn-sm z-depth-0" role="button">SSRN</a>
       {%- endif %}
+      {% if entry.doilink %}
+        <a href="{{ entry.link }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
@@ -269,11 +277,6 @@
       {% endif %}
     {% endif %}
 
-
-
-    {%- if entry.progress -%}
-    <div class="progresstarget">{{entry.progress}} <em>{{entry.target}}</em></div>
-    {%- endif -%}
 
 
     {% if entry.award1 -%}
