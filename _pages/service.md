@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /service/
-title: Service
+permalink: /projects/
+title: Projects
 quote: From moments to milestones: where every interaction counts.
 nav: true
 nav_order: 3
