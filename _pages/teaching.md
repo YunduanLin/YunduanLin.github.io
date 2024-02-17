@@ -23,7 +23,7 @@ nav_order: 2
     - Notes are fairly well organized and detailed. I liked that there was separate written lecture notes that was a lot more detailed as compared to the lecture slides which helps with understanding on technical details.<br>
     - She creates very straightforward and creative slides that help understand the topic faster and easier. I also appreciate how she elaborates each example.<br>
     - Instructor Yunduan always encouraged questions and explained the answers in detail.<br>
-    -Yunduan is great! Always willing to listen to students' feedback and make reasonable adjustments accordingly.<br>
+    - Yunduan is great! Always willing to listen to students' feedback and make reasonable adjustments accordingly.<br>
   </span>
 
 
