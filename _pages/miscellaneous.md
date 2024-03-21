@@ -14,15 +14,20 @@ nav_order: 4
 - __Finalist__, the 18th INFORMS DMDA Workshop Best Paper Competition Award (Theoretical Track) 2023
 - __Finalist__, INFORMS Minority Issues Forum Poster Competition 2023
 - INFORMS Workshop on Data Science Student Scholarship 2023
-- Departmental Award, IEOR Department, UC Berkeley 2023
+<!-- - Departmental Award, IEOR Department, UC Berkeley 2023 -->
 - __First-Place Prize__, the 13th POMS-HK International Conference Best Student Paper Award 2023
 - __Second Place__, OR/MS Tomorrow Mini-poster Competition 2022
 - __Winner__, Best Student Paper of Social Media Analytics (INFORMS SMA Section) 2022
 - Graduate Division Conference Travel Grant, UC Berkeley 2022
+
 - Second Prize, 7th Beijing College Transportation Technology Competition 2017
 - Tsinghua-Evergrande Group 1st class Scholarship 2017
+- Tsinghua-Zhenli Group 2ed class Scholarship 2017
+- Top Prize, Best Load, Best Structure Analysis, 22nd Tsinghua University Structural Design Competition 2016
+- Third Prize, 10th National College Structural Design Competition 2016
 - China National Scholarship (top 1% of the department) 2015
 - Tsinghua University Outstanding Student Leader 2015
+
 - First Prize, China High School Biology Olympiad (Provincial) 2014
 - Second Prize, National Olympiad in Informatics in Provinces 2012
 
