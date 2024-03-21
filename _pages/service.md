@@ -22,8 +22,7 @@ Conference Session Chair
 
 ---
 #### University and Departmental Services
-
-- Co-founder & Secretary, Representation of Asian and Pacific Islanders, CEE department 2023
+- Co-founder & Secretary, [Representation of Asian and Pacific Islanders](https://sites.google.com/berkeley.edu/rapid-cee/home), CEE department 2023
 - Contributor, PhD Mentor/Mentee Relationship Workshop, CEE department 2023
 - One of 2 student representatives of Graduate Studies Committee, School of Engineering 2022
 - Mentor, SWENext Mentorship Program (for high school students), UC Berkeley 2023

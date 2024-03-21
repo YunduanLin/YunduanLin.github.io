@@ -10,6 +10,7 @@ nav_order: 4
 ---
 #### Selected Honors and Awards
 
+- Outstanding Graduate Student Instructor Award, UC Berkeley, 2024
 - __Finalist__, the 18th INFORMS DMDA Workshop Best Paper Competition Award (Theoretical Track), 2023
 - __Finalist__, INFORMS Minority Issues Forum Poster Competition 2023
 - INFORMS Workshop on Data Science Student Scholarship 2023

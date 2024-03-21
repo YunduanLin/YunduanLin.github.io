@@ -1,11 +1,7 @@
 ---
 layout: post
-date: 2023-09-11
+date: 2023-03-13
 inline: true
 ---
 
-I will be at [INFORMS Annual Meeting 2023](https://meetings.informs.org/wordpress/phoenix2023/).
-<br>
-I will co-chair a session "Social Network and Platform Operations" with Max Shen, where I will also present my work "Nonprogressive Diffusion on Social Networks: Approximation and Applications".
-<br>
-__Time__: Oct. 15, 2023, 2:15 PM - 3:30 PM; __Location__: CC-North 130.
+Our paper "Content Promotion for Online Content Platforms with the Diffusion Effect" has been accepted by Manufacturing & Service Operations Management! Please check our paper [here](https://doi.org/10.1287/msom.2022.0172).
