@@ -20,7 +20,7 @@ nav_order: 4
 - __Winner__, [Best Student Paper of Social Media Analytics (INFORMS SMA Section)](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Social-Media-Analytics-Section/Best-Student-Paper-Award) 2022
 - Graduate Division Conference Travel Grant, UC Berkeley 2022
 
-- Second Prize, 7th Beijing College Transportation Technology Competition 2017
+- Second Prize, [7th Beijing College Transportation Technology Competition](http://bjctrans.bjtu.edu.cn/ljds/bsjg/153996.htm) 2017
 - Tsinghua-Evergrande Group 1st class Scholarship 2017
 - Tsinghua-Zhenli Group 2ed class Scholarship 2017
 - Top Prize, Best Load, Best Structure Analysis, 22nd Tsinghua University Structural Design Competition 2016
@@ -28,8 +28,8 @@ nav_order: 4
 - China National Scholarship (top 1% of the department) 2015
 - Tsinghua University Outstanding Student Leader 2015
 
-- First Prize, China High School Biology Olympiad (Provincial) 2014
-- Second Prize, National Olympiad in Informatics in Provinces 2012
+- First Prize, [China High School Biology Olympiad (Provincial)](https://www.xiaoxiaotong.org/AttachFile/2013/6/40050021/635058031770152500.pdf) 2014
+- Second Prize, [National Olympiad in Informatics in Provinces](http://zhejiang.xiaoxiaotong.org/AttachFile/2012/3/40050021/634684376361102500.pdf) 2012
 
 ---
 #### More about Me
