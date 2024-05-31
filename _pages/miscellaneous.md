@@ -10,14 +10,14 @@ nav_order: 4
 ---
 #### Selected Honors and Awards
 
-- Outstanding Graduate Student Instructor Award, UC Berkeley 2024
-- __Finalist__, the 18th INFORMS DMDA Workshop Best Paper Competition Award (Theoretical Track) 2023
+- [Outstanding Graduate Student Instructor Award](https://ieor.berkeley.edu/outstanding-graduate-student-instructor-award/), UC Berkeley 2024
+- __Finalist__, [the 18th INFORMS DMDA Workshop Best Paper Competition Award (Theoretical Track)](https://sites.google.com/view/dmdaworkshop2023) 2023
 - __Finalist__, INFORMS Minority Issues Forum Poster Competition 2023
 - INFORMS Workshop on Data Science Student Scholarship 2023
 <!-- - Departmental Award, IEOR Department, UC Berkeley 2023 -->
 - __First-Place Prize__, the 13th POMS-HK International Conference Best Student Paper Award 2023
-- __Second Place__, OR/MS Tomorrow Mini-poster Competition 2022
-- __Winner__, Best Student Paper of Social Media Analytics (INFORMS SMA Section) 2022
+- __Second Place__, [OR/MS Tomorrow Mini-poster Competition](https://www.informs.org/Publications/OR-MS-Tomorrow/OR-MS-Tomorrow-Mini-Poster-Competition-2022-Winners) 2022
+- __Winner__, [Best Student Paper of Social Media Analytics (INFORMS SMA Section)](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Social-Media-Analytics-Section/Best-Student-Paper-Award) 2022
 - Graduate Division Conference Travel Grant, UC Berkeley 2022
 
 - Second Prize, 7th Beijing College Transportation Technology Competition 2017
