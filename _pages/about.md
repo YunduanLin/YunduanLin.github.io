@@ -31,6 +31,8 @@ My advisor is Prof. [Zuo-Jun (Max) Shen](https://shen.ieor.berkeley.edu).
 
 I earned my M.S. degree (2019) from Berkeley and B.Eng. degree (2018) from [Tsinghua University](https://www.tsinghua.edu.cn/en/index.htm), both in Civil Engineering.
 
+I will be joining the [Chinese University of Hong Kong (CUHK) Business School](https://www.bschool.cuhk.edu.hk) as an Assistant Professor in the [Department of Decisions, Operations and Technology](https://www.bschool.cuhk.edu.hk/departments/decisions-operations-and-technology/) in Fall 2024.
+
 For more information, please refer to my CV <a href="../assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" class="float-center"><i class="fas fa-file-pdf"></i></a>.
 
 ---

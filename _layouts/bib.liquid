@@ -279,6 +279,9 @@
 
 
 
+    {% if entry.prelim -%}
+        <span style="margin-left: 20px; font-family:verdana; font-size:14px; color:#0076df">- {{ entry.prelim }} <br></span>
+    {%- endif -%}
     {% if entry.award1 -%}
         <span style="margin-left: 20px; font-family:verdana; font-size:14px; color:#0076df">- {{ entry.award1 }} <br></span>
     {%- endif -%}
@@ -291,6 +294,7 @@
     {% if entry.conference -%}
         <span style="margin-left: 20px; font-family:verdana; font-size:14px; color:#0076df">- {{ entry.conference }} <br></span>
     {%- endif -%}
+
 
     {% if entry.abstract %}
       <!-- Hidden abstract block -->
